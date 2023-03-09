@@ -1785,19 +1785,6 @@
     "@vuepress/core" "2.0.0-beta.61"
     prismjs "^1.29.0"
 
-"@vuepress/plugin-search@2.0.0-beta.61":
-  version "2.0.0-beta.61"
-  resolved "https://registry.yarnpkg.com/@vuepress/plugin-search/-/plugin-search-2.0.0-beta.61.tgz#473804cd576703c16adae49bcaf81cb6f144bbb4"
-  integrity sha512-gcyl3C7WBCC38dp42q6F8s0S/yKjm/yHqmpqtABxwFG+6IhZne0qFI9Q2CaaG/UGSa9UE0xVxeKfcBE1XIyX9A==
-  dependencies:
-    "@vuepress/client" "2.0.0-beta.61"
-    "@vuepress/core" "2.0.0-beta.61"
-    "@vuepress/shared" "2.0.0-beta.61"
-    "@vuepress/utils" "2.0.0-beta.61"
-    chokidar "^3.5.3"
-    vue "^3.2.47"
-    vue-router "^4.1.6"
-
 "@vuepress/plugin-theme-data@2.0.0-beta.61":
   version "2.0.0-beta.61"
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-theme-data/-/plugin-theme-data-2.0.0-beta.61.tgz#f95a56c8ffb4cca8b559b4cf81ef665fe07523aa"
@@ -5075,22 +5062,6 @@ vuepress-plugin-sass-palette@2.0.0-beta.190:
     "@vuepress/utils" "2.0.0-beta.61"
     chokidar "^3.5.3"
     sass "^1.58.3"
-    vuepress-shared "2.0.0-beta.190"
-
-vuepress-plugin-search-pro@2.0.0-beta.190:
-  version "2.0.0-beta.190"
-  resolved "https://registry.yarnpkg.com/vuepress-plugin-search-pro/-/vuepress-plugin-search-pro-2.0.0-beta.190.tgz#7b60a7431e4e3ff2be5be951307ba40f5eb40318"
-  integrity sha512-0E14+GvTMxBZ6tYCbG1wInKEXsM2u2vRA4zRYV7xJFYGJ6wJ4aXaO3MeauUFgFlR1KYwjvaPM61vdRKLAKMWtg==
-  dependencies:
-    "@vuepress/client" "2.0.0-beta.61"
-    "@vuepress/shared" "2.0.0-beta.61"
-    "@vuepress/utils" "2.0.0-beta.61"
-    "@vueuse/core" "^9.13.0"
-    cheerio "1.0.0-rc.12"
-    chokidar "^3.5.3"
-    vue "^3.2.47"
-    vue-router "^4.1.6"
-    vuepress-plugin-sass-palette "2.0.0-beta.190"
     vuepress-shared "2.0.0-beta.190"
 
 vuepress-plugin-seo2@2.0.0-beta.190:
